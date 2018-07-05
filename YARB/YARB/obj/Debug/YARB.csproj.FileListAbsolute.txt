@@ -1,0 +1,36 @@
+D:\VISUAL\project\YARB\YARB\bin\Debug\YARB.exe.config
+D:\VISUAL\project\YARB\YARB\bin\Debug\YARB.exe
+D:\VISUAL\project\YARB\YARB\bin\Debug\YARB.pdb
+D:\VISUAL\project\YARB\YARB\obj\Debug\YARB.csprojResolveAssemblyReference.cache
+D:\VISUAL\project\YARB\YARB\obj\Debug\YARB.Form1.resources
+D:\VISUAL\project\YARB\YARB\obj\Debug\YARB.Properties.Resources.resources
+D:\VISUAL\project\YARB\YARB\obj\Debug\YARB.csproj.GenerateResource.Cache
+D:\VISUAL\project\YARB\YARB\obj\Debug\YARB.exe
+D:\VISUAL\project\YARB\YARB\obj\Debug\YARB.pdb
+D:\VISUAL\project\YARB\YARB\obj\Debug\YARB.Form2.resources
+D:\VISUAL\project\YARB\YARB\obj\Debug\YARB.Form3.resources
+D:\VISUAL\project\YARB\YARB\obj\Debug\YARB.Form4.resources
+D:\YARB\YARB\bin\Debug\YARB.exe.config
+D:\YARB\YARB\obj\Debug\YARB.exe
+D:\YARB\YARB\obj\Debug\YARB.pdb
+D:\YARB\YARB\bin\Debug\YARB.exe
+D:\YARB\YARB\bin\Debug\YARB.pdb
+D:\YARB\YARB\obj\Debug\YARB.csprojResolveAssemblyReference.cache
+D:\YARB\YARB\obj\Debug\YARB.Form1.resources
+D:\YARB\YARB\obj\Debug\YARB.Form2.resources
+D:\YARB\YARB\obj\Debug\YARB.Form3.resources
+D:\YARB\YARB\obj\Debug\YARB.Form4.resources
+D:\YARB\YARB\obj\Debug\YARB.Properties.Resources.resources
+D:\YARB\YARB\obj\Debug\YARB.csproj.GenerateResource.Cache
+E:\sumer project facebook\YARB\YARB\bin\Debug\YARB.exe.config
+E:\sumer project facebook\YARB\YARB\obj\Debug\YARB.exe
+E:\sumer project facebook\YARB\YARB\obj\Debug\YARB.pdb
+E:\sumer project facebook\YARB\YARB\obj\Debug\YARB.csprojResolveAssemblyReference.cache
+E:\sumer project facebook\YARB\YARB\obj\Debug\YARB.Form1.resources
+E:\sumer project facebook\YARB\YARB\obj\Debug\YARB.Form2.resources
+E:\sumer project facebook\YARB\YARB\obj\Debug\YARB.Form3.resources
+E:\sumer project facebook\YARB\YARB\obj\Debug\YARB.Form4.resources
+E:\sumer project facebook\YARB\YARB\obj\Debug\YARB.Properties.Resources.resources
+E:\sumer project facebook\YARB\YARB\obj\Debug\YARB.csproj.GenerateResource.Cache
+E:\sumer project facebook\YARB\YARB\bin\Debug\YARB.exe
+E:\sumer project facebook\YARB\YARB\bin\Debug\YARB.pdb
